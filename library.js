@@ -6,6 +6,6 @@ sayGuest = () => {
   console.info("Hello Guest");
 };
 
-sun = (a, b) => {
-  return a + b;
+sum = (a, b, c) => {
+  return a + b - c;
 };
