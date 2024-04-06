@@ -1,0 +1,3 @@
+isRelease = () => {
+  return true;
+};
